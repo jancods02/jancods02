@@ -1,5 +1,5 @@
-## Hi there 👋 
-I am Anirudh currently pursuing a Masters Degree in MVLSI an engineer by profession with about an year experience in Software engineering domain.
+## Hi there 👋 I am Anirudh,
+Currently pursuing a Masters Degree in MVLSI an engineer by profession with about an year experience in Software engineering domain.
 My interest lies solely in Front end VLSI development domain and i love crafting and designing circuits.
 My topic skills include:
 a) Python
