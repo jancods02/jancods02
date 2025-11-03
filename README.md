@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi there 👋 I am Anirudh currently pursuing a Masters Degree in MVLSI an engineer by profession with about an year experience in Software engineering domain.
+My interest lies solely in Front end VLSI development domain and i love crafting and designing circuits.
+My topic skills include:
+a) Python
+b) C/C++
+c) Verilog
+d) Linux
 <!--
 **jancods02/jancods02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
