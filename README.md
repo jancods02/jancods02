@@ -1,13 +1,7 @@
 ## Hi there 👋 I am Anirudh,
 Currently pursuing a Masters Degree in MVLSI an engineer by profession with about an year experience in Software engineering domain.
 My interest lies solely in Front end and Back end VLSI development domain and i love crafting and designing circuits.
-My topic skills include:
 
-## I’m currently learning and skilled in..
-Verilog SystemVerilog
-Assembly C C++ Python Bash LaTeX Markdown HTML5 CSS3
-Git GitHub
-Arduino Raspberry Pi PlatformIO KiCAD Autodesk Fusion 360 MATLAB
 <!--
 **jancods02/jancods02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
