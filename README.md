@@ -2,11 +2,12 @@
 Currently pursuing a Masters Degree in MVLSI an engineer by profession with about an year experience in Software engineering domain.
 My interest lies solely in Front end and Back end VLSI development domain and i love crafting and designing circuits.
 My topic skills include:
-a) Python
-b) C/C++
-c) Verilog
-🌱 I’m currently learning and skilled in..
-https://camo.githubusercontent.com/3ca0caedb1ca713f07e878f9e21590bd06965cdf6813128a3734de4cb6077fe9/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337333434352f617373656d626c792e737667
+
+## I’m currently learning and skilled in..
+Verilog SystemVerilog
+Assembly C C++ Python Bash LaTeX Markdown HTML5 CSS3
+Git GitHub
+Arduino Raspberry Pi PlatformIO KiCAD Autodesk Fusion 360 MATLAB
 <!--
 **jancods02/jancods02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
