@@ -28,6 +28,18 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+  <div align="center">
+  <!-- Animated Verilog/FPGA Banner -->
+  <img src="https://githubusercontent.com" alt="Verilog Logo" width="100%" />
+
+  <br>
+
+  <!-- Skill Badges -->
+  <img src="https://shields.io" alt="Verilog Badge" />
+  <img src="https://shields.io" alt="SystemVerilog Badge" />
+  <img src="https://shields.io" alt="ModelSim Badge" />
+  <img src="https://shields.io" alt="FPGA Badge" />
+</div>
 </div>
 
 </td><td valign="top" width="33%">
@@ -44,7 +56,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://linkedin.com/in/anirudh-shishir-b7a489220" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
