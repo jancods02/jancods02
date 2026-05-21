@@ -28,25 +28,9 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-  <div align="center">
-  <!-- Animated Verilog/FPGA Banner -->
-  <img src="https://githubusercontent.com" alt="Verilog Logo" width="100%" />
+<a href="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_verilog.svg" target="_blank"><img style="margin: 10px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_verilog.svg" alt="Verilog" height="50" /></a>  
+<a href="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_systemverilog.svg" target="_blank"><img style="margin: 10px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_systemverilog.svg" alt="System-Verilog" height="50" /></a>  
 
-  <br>
-
-  <!-- Skill Badges -->
-  <img src="https://shields.io" alt="Verilog Badge" />
-  <img src="https://shields.io" alt="SystemVerilog Badge" />
-  <img src="https://shields.io" alt="ModelSim Badge" />
-  <img src="https://shields.io" alt="FPGA Badge" />
-</div>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
 
 
 
