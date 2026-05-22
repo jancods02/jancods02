@@ -30,6 +30,8 @@
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_verilog.svg" target="_blank"><img style="margin: 10px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_verilog.svg" alt="Verilog" height="50" /></a>  
 <a href="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_systemverilog.svg" target="_blank"><img style="margin: 10px" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_systemverilog.svg" alt="System-Verilog" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/330px-GitHub_Invertocat_Logo.svg.png" alt="Github" height="50" /></a>  
+
 
 
 
